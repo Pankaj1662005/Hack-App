@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031460702663",
+    "project_id": "hacking-5c570",
+    "storage_bucket": "hacking-5c570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031460702663:android:ab73011f47b7f497b2f1e2",
+        "android_client_info": {
+          "package_name": "com.example.hack_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKlb5mZrOY493HL9qYgoOWSmyN5OfVZWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
